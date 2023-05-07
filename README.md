@@ -1,2 +1,2 @@
 # TimCoRetailer
-A retailer app 
+A retailer app for a abc company. 
